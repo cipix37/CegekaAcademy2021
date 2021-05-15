@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Before Sunset", "time":"10:00", "id": 101, "occupied_seats":[]
+    },
+    {
+        "title": "Master and Commander: The Far Side of the World", "time":"12:00", "id": 102, "occupied_seats":[]
+    },
+    {
+        "title": "12 Angry Men", "time":"14:00", "id": 103, "occupied_seats":[]
+    },
+    {
+        "title": "School Ties", "time":"16:00", "id": 104, "occupied_seats":[]
+    }
+]
